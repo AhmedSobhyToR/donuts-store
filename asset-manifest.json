@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/donuts-store/static/css/main.243397b0.css",
-    "main.js": "/donuts-store/static/js/main.49967b61.js",
+    "main.js": "/donuts-store/static/js/main.cf9d44e3.js",
     "static/media/bg.jpg": "/donuts-store/static/media/bg.a44ec29197484be863b6.jpg",
     "static/media/8.jpg": "/donuts-store/static/media/8.757f9493e0197a1187f2.jpg",
     "static/media/7.jpg": "/donuts-store/static/media/7.2b78f3b793a7b44aa822.jpg",
@@ -17,10 +17,10 @@
     "static/media/4.jpg": "/donuts-store/static/media/4.74f4ef1a0d5db15df37a.jpg",
     "index.html": "/donuts-store/index.html",
     "main.243397b0.css.map": "/donuts-store/static/css/main.243397b0.css.map",
-    "main.49967b61.js.map": "/donuts-store/static/js/main.49967b61.js.map"
+    "main.cf9d44e3.js.map": "/donuts-store/static/js/main.cf9d44e3.js.map"
   },
   "entrypoints": [
     "static/css/main.243397b0.css",
-    "static/js/main.49967b61.js"
+    "static/js/main.cf9d44e3.js"
   ]
 }
