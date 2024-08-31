@@ -1,4 +1,5 @@
-• Seamless User Experience: An intuitive interface designed for effortless navigation and shopping donuts in store. 
+• Seamless User Experience: An intuitive interface designed for effortless navigation and shopping donuts in store.
+
 • Add to Cart & Remove from Cart: Easily manage your shopping cart with just a few clicks. 
 • Real-Time Cart Functionality: Providing immediate updates for a smooth checkout process using useEffect and useState React hooks. 
 • Checkout & Payment: Enjoy a smooth and secure checkout process by confirming the payment and total price. 
