@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/donuts-store/static/css/main.243397b0.css",
+    "main.js": "/donuts-store/static/js/main.09eb8c4b.js",
+    "static/media/bg.jpg": "/donuts-store/static/media/bg.a44ec29197484be863b6.jpg",
+    "static/media/8.jpg": "/donuts-store/static/media/8.757f9493e0197a1187f2.jpg",
+    "static/media/7.jpg": "/donuts-store/static/media/7.2b78f3b793a7b44aa822.jpg",
+    "static/media/11.jpg": "/donuts-store/static/media/11.c40e637185dfdd378eb6.jpg",
+    "static/media/12.jpg": "/donuts-store/static/media/12.b4ed5de1d3e789e22c4a.jpg",
+    "static/media/10.jpg": "/donuts-store/static/media/10.25a98d5b52f9f535d44a.jpg",
+    "static/media/9.jpg": "/donuts-store/static/media/9.873275f2bf4b5b46ccc5.jpg",
+    "static/media/2.jpg": "/donuts-store/static/media/2.f0d69b5c19d9ecf43a8f.jpg",
+    "static/media/6.jpg": "/donuts-store/static/media/6.a8d6d146d95e763a1ea2.jpg",
+    "static/media/1.jpg": "/donuts-store/static/media/1.0430ebcd1487e9446279.jpg",
+    "static/media/5.jpg": "/donuts-store/static/media/5.db801b4bdc42a5952731.jpg",
+    "static/media/3.jpg": "/donuts-store/static/media/3.917715e4251b088de1c3.jpg",
+    "static/media/4.jpg": "/donuts-store/static/media/4.74f4ef1a0d5db15df37a.jpg",
+    "index.html": "/donuts-store/index.html",
+    "main.243397b0.css.map": "/donuts-store/static/css/main.243397b0.css.map",
+    "main.09eb8c4b.js.map": "/donuts-store/static/js/main.09eb8c4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.243397b0.css",
+    "static/js/main.09eb8c4b.js"
+  ]
+}
